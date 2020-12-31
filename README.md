@@ -14,5 +14,5 @@ A video of the GUI and the Live Sensor Data can be seen below: <br />
 [Visualization Video](https://drive.google.com/file/d/1YbccYbmbtjgVYF3BjthzpnNtlAazklQg/view?usp=sharing)
 
 ## More Information
-If you want more information about the medical device (College Capstone Design Project) look at the following project folder: <br />
+For more information about the medical device (College Capstone Design Project) look at the following project folder: <br />
 [Project Folder](https://drive.google.com/drive/u/0/folders/1WpzN3x42i1R4fN0WCJqcu4nOuEURvMxr)
